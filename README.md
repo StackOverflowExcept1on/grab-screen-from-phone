@@ -1,6 +1,6 @@
 ### grab-screen-from-phone
 
-![banner](https://i.imgur.com/TWTTtb2.png)
+<img src="https://i.imgur.com/TWTTtb2.png" width="256" height="431" alt="banner">
 
 Displaying your phone's screen on a web server
 
