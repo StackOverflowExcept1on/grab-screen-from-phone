@@ -1,0 +1,7 @@
+{
+  "name": "stack-overflow-except1on/grab-screen-from-phone",
+  "require": {
+    "php": ">=7.4",
+    "ext-gd": "*"
+  }
+}
