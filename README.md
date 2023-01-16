@@ -12,7 +12,7 @@ Displaying your phone's screen on a web server
 
 ### Features
 
-- image filename is saved as `Y_m_d_H_i_s-phone_model.png` (can)
+- image filename is saved as `Y_m_d_H_i_s-phone_model.png` (can be saved with context menu)
 - Linux and Windows is supported
 - ultra lightweight
 
